@@ -1,0 +1,27 @@
+/* Write your CSS code here */
+.crypto-item {
+  display: flex;
+  justify-content: space-between;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+
+.image-heading-container {
+  display: flex;
+  align-items: center;
+  width: 50%;
+  padding-left: 40px;
+}
+
+.image {
+  width: 30px;
+  height: 20px;
+  padding-right: 10px;
+}
+
+.values-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 30%;
+}
